@@ -1,0 +1,5 @@
+*.pyc
+*.asm
+*.sc
+shellcode
+*.c
